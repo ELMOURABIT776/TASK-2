@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/TASK body Mass Index (BMI) Calculator/cmake-build-debug/CMakeFiles/TASK_body_Mass_Index__BMI__Calculator.dir
+C:/Users/pc/CLionProjects/TASK body Mass Index (BMI) Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/TASK body Mass Index (BMI) Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

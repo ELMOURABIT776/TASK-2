@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TASK_body_Mass_Index__BMI__Calculator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TASK_body_Mass_Index__BMI__Calculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TASK_body_Mass_Index__BMI__Calculator-Debug-a8cf4a5e5cba5101c6a8.json",
+					"name" : "TASK_body_Mass_Index__BMI__Calculator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/pc/CLionProjects/TASK body Mass Index (BMI) Calculator/cmake-build-debug",
+		"source" : "C:/Users/pc/CLionProjects/TASK body Mass Index (BMI) Calculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
